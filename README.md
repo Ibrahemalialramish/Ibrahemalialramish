@@ -7,26 +7,31 @@
   <img align="left" alt="Twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height="18px"/>
 </a>
 
-<br/>
-
-أنا طالب في **تقنية المعلومات** ومهتم بتطوير التطبيقات وتصميم الواجهات. أحب التعلّم المستمر وتجربة تقنيات جديدة، وأسعى دائمًا لتطوير مهاراتي في البرمجة والتصميم.
-
 <br/><br/>
+
+I'm a passionate **Information Technology** student with strong skills in **Mobile App Development**, **Web Front-End**, and **Creative Design**.  
+I love transforming ideas into real, functional, and beautifully designed software.  
+
+<br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-### 🧐 More About Me:
+---
 
-- 🎯 أعمل حاليًا على تطوير تطبيقات باستخدام Flutter  
-- 👨‍💻 أتقن HTML, CSS, JavaScript, Python وFlutter  
-- 🎨 أصمم باستخدام Canva وأهوى تحويل الأفكار إلى تصاميم جذابة  
-- 🌱 أتعلم باستمرار أحدث تقنيات الويب وتطوير التطبيقات  
-- 📫 تواصل معي على [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 🧠 أحب التعلم الذاتي ومشاركة المعرفة مع الآخرين  
+### 🧠 About Me
+
+- 🎓 IT student focused on modern technologies and real-world problem solving.  
+- 🚀 Building cross-platform mobile apps with **Flutter**  
+- 💻 Skilled in **HTML**, **CSS**, **JavaScript**, **Python**, and UI frameworks  
+- 🎨 Creative designer using **Canva** to craft clean and engaging UIs  
+- 🌱 Currently learning **advanced Flutter animations** and **state management**  
+- 💬 Always open to discussions about code, UI/UX, and tech trends  
+- 🤝 Looking for exciting collaborations on meaningful projects  
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/your-profile)  
 
 ---
 
-### 🔨 لغات وأدوات:
+### 🔧 Languages & Tools
 
 <a href="https://flutter.dev" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" height="42px"/>
@@ -54,6 +59,19 @@
 
 ---
 
+### 🌟 Highlighted Projects
+
+Here are a few things I’ve built recently or currently working on:
+
+- 📱 **TodoX App** – A beautifully designed Flutter todo app with local storage  
+- 🎵 **Musicly UI** – Front-end concept of a music streaming app using Flutter  
+- 🔐 **SecurePass** – A simple password manager built with Python and Tkinter  
+- 🌐 **MyPortfolio Website** – Clean and responsive personal website using HTML/CSS/JS  
+
+➡️ Check them out on my [GitHub Repositories](https://github.com/your-github-username?tab=repositories)
+
+---
+
 ### 📊 GitHub Stats
 
 <a href="https://github.com/your-github-username">
@@ -63,13 +81,14 @@
 
 ---
 
-### 🛠️ بعض مشاريعي:
+### 🎯 Future Goals
 
-- 🔑 [Password Manager](https://github.com/your-github-username/password-manager)  
-- 🎵 [Music App Flutter UI](https://github.com/your-github-username/music-app-ui)  
-- 📘 [Personal Portfolio](https://github.com/your-github-username/portfolio)  
+- 🔵 Publish my own Flutter app on the Play Store  
+- 🟡 Contribute to open-source Flutter plugins  
+- 🟢 Start a blog about code + design + productivity  
+- 🔴 Build a fully functional REST API with Python/Flask  
 
 ---
 
-> ✨ لا تتردد في التواصل معي لأي استفسار أو تعاون!
+> 🚀 *"Code is a tool, creativity is the fuel. Combine both to build the future."*
 
